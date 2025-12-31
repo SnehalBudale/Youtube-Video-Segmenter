@@ -1,4 +1,4 @@
-# Youtube-Video-Segmenter
+# Video Chaptering with YouTube Transcripts
 
 This project provides a way to segment YouTube videos into chapters based on their content. By inputting a YouTube video link, the application transcribes the video and uses machine learning techniques to identify logical breaks in the content, resulting in a chapter-based breakdown with timestamps and chapter names.
 
